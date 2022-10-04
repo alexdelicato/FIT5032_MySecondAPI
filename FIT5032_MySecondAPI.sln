@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIT5032_MySecondAPI", "FIT5032_MySecondAPI\FIT5032_MySecondAPI.csproj", "{E095E045-0DFA-4507-B0C1-AA063BDFA18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E095E045-0DFA-4507-B0C1-AA063BDFA18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E095E045-0DFA-4507-B0C1-AA063BDFA18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E095E045-0DFA-4507-B0C1-AA063BDFA18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E095E045-0DFA-4507-B0C1-AA063BDFA18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9020E3-6EA7-40C4-8D2D-A8564C7C6825}
+	EndGlobalSection
+EndGlobal
